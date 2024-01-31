@@ -1,0 +1,114 @@
+*{
+    margin:0;
+    padding: 0;
+ 
+   
+}
+body{
+    background-color: bisque;
+    font-family:googleapis;
+
+
+}
+.all{
+    max-width: 1000px;
+    background-color: pink;
+    align-items: center;
+    margin:0 auto;
+    padding:20px;
+}
+.image
+{
+    width:30%;
+    height: 30%;
+    border:3px solid red  ;
+    border-radius: 100%;
+    float:left;
+    
+    
+}
+.name
+{
+    float:left;
+   color: crimson;
+   padding:50px;
+}
+.contact a{
+    
+    color:crimson;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+.contact a:hover{
+    text-decoration: underline;
+    color:maroon;
+}
+.contact
+{
+    float:right;
+    padding: 50px;
+
+}
+.clear-div
+{
+    clear:both;
+}
+hr
+{
+    width:100%;
+    
+    border: solid 3px maroon;
+    border-bottom: none;
+    margin: 20px auto; 
+   
+
+}
+.h1h
+{ width: 30%;
+    color:crimson;
+    float:left;
+    
+}
+.abouts
+{   width: 70%;
+    color:crimson;
+    float:left;
+  
+    font-weight: 500;
+    
+}
+.extra
+{
+    width: 30%;
+    color:crimson;
+    float:left;
+  
+    font-weight: 500;
+}
+.extrar
+{
+    width: 30%;
+    color:crimson;
+    float:right;
+  
+    font-weight: 500;
+    padding-right:30px;
+}
+.f 
+{
+    max-width: 1000px;
+    width: 100%;
+   color:white;
+   background-color: black; 
+   text-align: center;
+   margin:0 auto;
+   
+   
+}
+.f a{
+    color:white;
+    
+    margin:20px;
+    text-decoration: none;
+}
